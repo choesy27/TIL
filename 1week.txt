@@ -1,0 +1,18 @@
+스파르타 강의 '핵심 쏙쏙 Git' 1주차 - TIL(Today I Learned)
+
+1. 앞으로 git 프로젝트로 만들고 싶은 것
+- 수강한 내용 정리 요약한 파일을 만들고 싶습니다.
+
+2. 1주차 주요 개념 키워드 적어보기
+- 버전 관리
+- git 초기화(git initialize): 컴퓨터에 있는 프로젝트를 Git이 관리하는 프로젝트로 만들 수 있다. 처음에 한 번만 실행.
+- commit: 현재 프로젝트의 상태를 저장하는 것.
+	작업내역을 적는 메시지를 'commit 메시지'라고 한다.
+- add(staging): commit에 반영할 파일 선택
+- commit history: 변경 내역 확인
+- 순서: initialize > add > commit
+- repo = repository
+- Tracking(추적): 로컬 repo(내 컴퓨터에 저장된 repo)와 원격 repo(remote repository)를 연결한다.
+- push: 로컬 repo의 새로운 commit 내역을 원격 repo에 반영.
+- pull: 원격 repo의 내용을 로컬 repo로 다운.
+- clone: 원격 repo를 내 컴퓨터에 가져와서 초기 repo 세팅하는 것을 clone
