@@ -9,6 +9,8 @@
 
 # 스파르타 코딩 클럽 '알고보면 알기쉬운 알고리즘' 강의 Today I Learn
 
+- [알고보면 알기쉬운 알고리즘 실습 파일](https://github.com/choesy27/TIL/tree/main/sparta_algorithm)
+
 - [알고보면 알기쉬운 알고리즘 1주차 TIL](https://github.com/choesy27/TIL/blob/main/algorithm_1week.txt)
 
 - [알고보면 알기쉬운 알고리즘 2주차 TIL](https://github.com/choesy27/TIL/blob/main/algorithm_2week.txt)
@@ -17,4 +19,4 @@
 
 - [알고보면 알기쉬운 알고리즘 4주차 TIL](https://github.com/choesy27/TIL/blob/main/algorithm_4week.txt)
 
-- [알고보면 알기쉬운 알고리즘 5주차 숙제 겸 5주차 동안의 실습 파일](https://github.com/choesy27/TIL/tree/master/sparta_algorithm)
+- [알고보면 알기쉬운 알고리즘 5주차 TIL](https://github.com/choesy27/TIL/blob/main/algorithm_5week.txt)
